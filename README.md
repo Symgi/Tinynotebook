@@ -10,4 +10,12 @@ Simple, Yet powerful notesystem created with using the best editors of the web. 
 3. write your database login information into config.inc.php
 4. upload the sql file to your sql server
 
-That's all, Enjyo
+That's all, Enjoy
+
+
+#Technical Specifications
+PHP PDO database driver
+passwords stored with sha512 with bread
+TinyMCE, CKeditor, nicEditor
+
+niceditor also uploads to imgur so that the photos isn't stored locally
