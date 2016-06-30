@@ -15,7 +15,9 @@ That's all, Enjoy
 
 #Technical Specifications
 PHP PDO database driver
+
 passwords stored with sha512 with bread
+
 TinyMCE, CKeditor, nicEditor
 
 niceditor also uploads to imgur so that the photos isn't stored locally
