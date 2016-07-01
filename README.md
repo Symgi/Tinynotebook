@@ -10,6 +10,8 @@ Simple, Yet powerful notesystem created with using the best editors of the web. 
 3. write your database login information into config.inc.php
 4. upload the sql file to your sql server
 
+Login using admin@bibleway.us password: test
+
 That's all, Enjoy
 
 
